@@ -12,40 +12,22 @@
 
 ## 2.5 Relevanz für die EU und den Themenbereich Data Science
 
-# 3. Methodik & Daten
-
-## 3.1 Datenquellen (z. B. data.europa.eu)
-
-## 3.2 Auswahlkriterien für Datensätze
-
-## 3.3 Geplante Analyseverfahren (z. B. deskriptiv, explorativ, statistisch, Clustering, etc.)
-
-## 3.4 Geplante Tools (Python, pandas, matplotlib, etc.)
-
-## 3.5 Visualisierungsmethoden (Diagrammtypen, Storytelling-Formate)
-
-# 4. Funktionale Anforderungen (inhaltlich)
+# 3. Funktionale Anforderungen (inhaltlich)
 - Die zu untersuchenden Thesen oder Themenfelder
 - Konkrete Analyseschritte
 - Visualisierungen (Welche Kernaussagen sollen grafisch gezeigt werden?)
 - Struktur der geplanten Data Story (logischer Aufbau)
 
-# 5. Nicht-funktionale Anforderungen (prozessual)
+# 4. Nicht-funktionale Anforderungen (prozessual)
 - Verständlichkeit für eine nicht-technische Zielgruppe
 - Korrektheit der Datenverwendung und Interpretation
 - Reproduzierbarkeit (Dokumentation, Codequalität)
 - Teamarbeit & Versionskontrolle (GitHub)
 - Multimediale Aufbereitung (Video statt Foliensatz)
 
-# 6. Rahmenbedingungen
+# 5. Lieferumfang
 
-## 6.1 Zeitplan und Meilensteine
-
-## 6.2 Verfügbarkeit der Daten
-
-## 6.3 Technische Ressourcen
-
-## 6.4 Vorgaben der Lehrveranstaltung
+# 6. Zeitplan und Meilensteine
 
 # 7. Abnahmekriterien
 
@@ -67,5 +49,5 @@
 
 ## 8.3 Glossar / Begriffserklärungen
 
-## 8.4 Quellen
+## 9.4 Quellen
 
